@@ -39,6 +39,8 @@ Snapshot of Looker filters: <br/>
 <img src="https://github.com/zarasash/DataPipeline/blob/main/apple%20news%20dashboard%20filters.png"/>
 <br />
 
+<h2>📝 Disclaimer</h2>
+This project demonstrates a generalized data pipeline inspired by common analytics patterns. It does not use any proprietary code, datasets, or confidential logic.<br />
 
 <!--
  ```diff
