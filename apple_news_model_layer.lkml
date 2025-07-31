@@ -1,3 +1,3 @@
-# Audience Core
-include: "/logical/audience_core/apple_news_stats_daily.explore.lkml"
-include: "/logical/audience_core/apple_news_article_level_daily.explore.lkml"
+# Public Reporting
+include: "/_public/data_analytics/platform_stats_daily.explore.lkml"
+include: "/_public/data_analytics/platform_article_level_daily.explore.lkml"
